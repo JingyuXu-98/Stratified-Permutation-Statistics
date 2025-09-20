@@ -1,8 +1,8 @@
-PWD /Users/xjy/科研/科研进展/整理论文/General non linear statistics/Bernoulli版本
+PWD /Users/xjy/科研/科研进展/整理论文/Stratified-Permutation-Statistics/Bernoulli版本
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt
-INPUT /Users/xjy/科研/科研进展/整理论文/General non linear statistics/Bernoulli版本/bj-template.tex
+INPUT /Users/xjy/科研/科研进展/整理论文/Stratified-Permutation-Statistics/Bernoulli版本/bj-template.tex
 OUTPUT bj-template.log
 INPUT ./imsart.cls
 INPUT imsart.cls
@@ -271,13 +271,11 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/nimbus15/ztm-Med-ot1.t
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/nimbus15/ztm-Med-t1.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/nimbus15/ztm-Reg-t1.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/nimbus15/ztm-Med-t1.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/nimbus15/ztm-Reg-t1.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/nimbus15/ztm-RegIta-t1.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/nimbus15/ztm-Med-t1.tfm
-OUTPUT bj-template.xdv
 INPUT ./bj-template.bbl
 INPUT ./bj-template.bbl
 INPUT bj-template.bbl
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/nimbus15/ztm-RegIta-t1.tfm
+OUTPUT bj-template.xdv
 INPUT bj-template.aux
 INPUT ./bj-template.out
 INPUT ./bj-template.out

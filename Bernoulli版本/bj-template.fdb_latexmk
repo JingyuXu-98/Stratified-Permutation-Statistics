@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex bj-template"] 1755961152.78201 "bj-template.aux" "bj-template.bbl" "bj-template" 1756979026.45152 0
-  "./refs.bib" 1755944082.86975 927 849c2bb4ead0064c86305dd0e17a7b7b ""
+["bibtex bj-template"] 1758351092.43478 "bj-template.aux" "bj-template.bbl" "bj-template" 1758351128.67031 0
+  "./refs.bib" 1758024633.76702 1499 b17a6fb71616db7d09fda8821d920a73 ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "bj-template.aux" 1756979025.95585 3032 39bb9290ea3102d64d65bdef2c45b3ef "xelatex"
+  "bj-template.aux" 1758351128.21499 1320 32b1fa028fbd830c79ce3f94b3307c69 "xelatex"
   (generated)
   "bj-template.bbl"
   "bj-template.blg"
   (rewritten before read)
-["xdvipdfmx"] 1756979026.16538 "bj-template.xdv" "bj-template.pdf" "bj-template" 1756979026.45255 0
-  "bj-template.xdv" 1756979025.95673 117292 7e2c81f5d8308066e231b69e2818563c "xelatex"
+["xdvipdfmx"] 1758351128.42089 "bj-template.xdv" "bj-template.pdf" "bj-template" 1758351128.67137 0
+  "bj-template.xdv" 1758351128.21582 8464 896414ad803cfef75b0a160277178ad1 "xelatex"
   (generated)
   "bj-template.pdf"
   (rewritten before read)
-["xelatex"] 1756979025.54576 "/Users/xjy/科研/科研进展/整理论文/General non linear statistics/Bernoulli版本/bj-template.tex" "bj-template.xdv" "bj-template" 1756979026.45161 0
-  "/Users/xjy/科研/科研进展/整理论文/General non linear statistics/Bernoulli版本/bj-template.tex" 1756979025.32539 43888 6e14afbf5a1237e8fe69038840546600 ""
+["xelatex"] 1758351127.86048 "/Users/xjy/科研/科研进展/整理论文/Stratified-Permutation-Statistics/Bernoulli版本/bj-template.tex" "bj-template.xdv" "bj-template" 1758351128.67039 0
+  "/Users/xjy/科研/科研进展/整理论文/Stratified-Permutation-Statistics/Bernoulli版本/bj-template.tex" 1758351127.65361 7893 baa69a661e6c8bb112c72517a1e5a220 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -125,10 +125,10 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1742308264 5639816 0d131ae3db5efe89ea458d49e001920f ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "bj-template.aux" 1756979025.95585 3032 39bb9290ea3102d64d65bdef2c45b3ef "xelatex"
-  "bj-template.bbl" 1755961152.87122 570 4ff5d586b1b35b372886002d70320c11 "bibtex bj-template"
-  "bj-template.out" 1756979025.95653 376 34b5bc61dc8c33b6d1a41d057e31a60d "xelatex"
-  "bj-template.tex" 1756979025.32539 43888 6e14afbf5a1237e8fe69038840546600 ""
+  "bj-template.aux" 1758351128.21499 1320 32b1fa028fbd830c79ce3f94b3307c69 "xelatex"
+  "bj-template.bbl" 1758351092.51965 49 0eba253fc001332e731e8aba3f23127b "bibtex bj-template"
+  "bj-template.out" 1758351128.21561 376 34b5bc61dc8c33b6d1a41d057e31a60d "xelatex"
+  "bj-template.tex" 1758351127.65361 7893 baa69a661e6c8bb112c72517a1e5a220 ""
   "imsart-bj.cnf" 0 -1 0 ""
   "imsart-vtex.cnf" 0 -1 0 ""
   "imsart.cls" 1750874754 5117 d92aa9c197491b362da7b310a48755b6 ""

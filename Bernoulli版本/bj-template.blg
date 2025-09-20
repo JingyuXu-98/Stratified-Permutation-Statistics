@@ -2,45 +2,47 @@ This is BibTeX, Version 0.99d (TeX Live 2025)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: bj-template.aux
 The style file: apalike.bst
+I found no \citation commands---while reading file bj-template.aux
 Database file #1: refs.bib
-You've used 2 entries,
+You've used 0 entries,
             1935 wiz_defined-function locations,
-            486 strings with 4107 characters,
-and the built_in function-call counts, 868 in all, are:
-= -- 87
-> -- 31
-< -- 1
-+ -- 10
-- -- 10
-* -- 80
-:= -- 151
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 15
-chr.to.int$ -- 2
-cite$ -- 2
-duplicate$ -- 28
-empty$ -- 63
-format.name$ -- 14
-if$ -- 166
+            471 strings with 3682 characters,
+and the built_in function-call counts, 17 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 0
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 2
-newline$ -- 13
-num.names$ -- 6
-pop$ -- 10
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
-purify$ -- 15
+purify$ -- 0
 quote$ -- 0
-skip$ -- 22
+skip$ -- 1
 stack$ -- 0
-substring$ -- 80
-swap$ -- 2
+substring$ -- 0
+swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
+type$ -- 0
 warning$ -- 0
-while$ -- 8
+while$ -- 0
 width$ -- 0
-write$ -- 28
+write$ -- 2
+(There was 1 error message)
